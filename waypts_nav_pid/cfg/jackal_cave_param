@@ -1,0 +1,55 @@
+!!python/object/new:dynamic_reconfigure.encoding.Config
+dictitems:
+  angular_delta: 0.01
+  angular_kd: 0.1
+  angular_ki: 0.1
+  angular_kp: 0.5
+  angular_max_integral: 0.0
+  angular_max_output: 0.7
+  angular_min_integral: 0.0
+  angular_min_output: -0.7
+  angular_tolerance: 0.5
+  groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+    dictitems:
+      angular_delta: 0.01
+      angular_kd: 0.1
+      angular_ki: 0.1
+      angular_kp: 0.5
+      angular_max_integral: 0.0
+      angular_max_output: 0.7
+      angular_min_integral: 0.0
+      angular_min_output: -0.7
+      angular_tolerance: 0.5
+      groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      id: 0
+      linear_delta: 0.44
+      linear_kd: 0.15
+      linear_ki: 0.65
+      linear_kp: 1.75
+      linear_max_integral: 0.0
+      linear_max_output: 1.0
+      linear_min_integral: -0.3
+      linear_min_output: -1.0
+      name: Default
+      parameters: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      parent: 0
+      robot_radius: 2.0
+      state: true
+      trim_lin_vel: 0.0
+      type: ''
+      verbose: true
+    state: []
+  linear_delta: 0.44
+  linear_kd: 0.15
+  linear_ki: 0.65
+  linear_kp: 1.75
+  linear_max_integral: 0.0
+  linear_max_output: 1.0
+  linear_min_integral: -0.3
+  linear_min_output: -1.0
+  robot_radius: 2.0
+  trim_lin_vel: 0.0
+  verbose: true
+state: []
