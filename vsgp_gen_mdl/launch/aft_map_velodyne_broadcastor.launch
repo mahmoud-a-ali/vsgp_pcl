@@ -1,0 +1,10 @@
+<launch>
+
+  <!-- <node pkg="tf" type="static_transform_publisher" name="aft_map_2_vldyn_tf" args="0 0 0 0 0 0 1 aft_mapped  velodyne 60"/> -->
+  <!-- <node pkg="tf" type="static_transform_publisher" name="aft_map_2_base_link_tf" args="0 0 0 0 0 0 1 aft_mapped  base_link 60"/> -->
+  <!-- <node pkg="tf" type="static_transform_publisher" name="velodyne_2_base_link_tf" args="0 0 0 0 0 0 1 velodyne base_link 60"/> -->
+  <node pkg="tf" type="static_transform_publisher" name="front_mount_2_velodyne_tf" args="0 0 0 0 0 0 1 front_mount velodyne 200"/>
+
+</launch>
+
+

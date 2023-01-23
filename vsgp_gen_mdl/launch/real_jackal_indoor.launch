@@ -1,0 +1,35 @@
+<launch>
+
+
+<!--   <node pkg="tf" type="static_transform_publisher" name="aft_map_2_vldyn_tf" args="0 0 0 0 0 0 1 /aft_mapped  /velodyne 60"/>
+ -->
+    <!-- <arg name="pcl_topic" default="/velodyne_cloud_registered" /> -->
+    <arg name="pcl_topic" default="/velodyne_points" />
+    <arg name="localization_topic" default="/aft_mapped_to_init" />
+    
+    <!-- <arg name="pcl_topic" default="mid/points" /> -->
+    <!-- <arg name="localization_topic" default="/ground_truth/state" /> -->
+    
+
+
+    <!-- vlp16 driver  -->
+    <include file="$(find velodyne_pointcloud)/launch/VLP16_points.launch"/>
+    
+    <!-- aloam localization  -->
+    <include file="$(find aloam_velodyne)/launch/aloam_velodyne_VLP_16.launch"/>
+
+     <!-- pointcloud projection to occupancy surface -->
+    <node name="occ_n_fr_surface" pkg="vsgp_gen_mdl" type="oc_srfc_proj"  output="screen">
+        <remap from="mid/points" to="$(arg pcl_topic)" />
+        <remap from="/ground_truth/state" to="$(arg localization_topic)" />
+    </node>
+
+     <!-- pid for waypoint tracking -->
+    <node name="tracking_pid_node" pkg="tracking_pid" type="tracking_pid_node.py"  output="screen">
+        <remap from="/ground_truth/state" to="$(arg localization_topic)"/>
+    </node>
+
+
+</launch>
+
+
