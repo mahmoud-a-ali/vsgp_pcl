@@ -1,0 +1,20 @@
+<launch>
+
+
+    <arg name="pcl_topic" default="mid/points" />
+    <arg name="localization_topic" default="/ground_truth/state" />
+    <!-- <arg name="pcl_topic" default="/velodyne_cloud_registered" /> -->
+    <!-- <arg name="localization_topic" default="/aft_mapped_to_init" /> -->
+    
+
+     <!-- pointcloud projection to occupancy surface -->
+    <node name="occ_n_fr_surface" pkg="vsgp_gen_mdl" type="oc_srfc_proj"  output="screen">
+        <remap from="mid/points" to="$(arg pcl_topic)" />
+        <remap from="/ground_truth/state" to="$(arg localization_topic)" />
+    </node>
+
+
+
+</launch>
+
+
