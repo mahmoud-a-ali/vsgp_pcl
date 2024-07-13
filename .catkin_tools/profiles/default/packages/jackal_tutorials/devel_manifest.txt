@@ -1,5 +1,0 @@
-jackal_pkgs/jackal/jackal_tutorials
-/home/vail/github/vsgp/devel/.private/jackal_tutorials/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
-/home/vail/github/vsgp/devel/.private/jackal_tutorials/lib/pkgconfig/jackal_tutorials.pc /home/vail/github/vsgp/devel/lib/pkgconfig/jackal_tutorials.pc
-/home/vail/github/vsgp/devel/.private/jackal_tutorials/share/jackal_tutorials/cmake/jackal_tutorialsConfig.cmake /home/vail/github/vsgp/devel/share/jackal_tutorials/cmake/jackal_tutorialsConfig.cmake
-/home/vail/github/vsgp/devel/.private/jackal_tutorials/share/jackal_tutorials/cmake/jackal_tutorialsConfig-version.cmake /home/vail/github/vsgp/devel/share/jackal_tutorials/cmake/jackal_tutorialsConfig-version.cmake

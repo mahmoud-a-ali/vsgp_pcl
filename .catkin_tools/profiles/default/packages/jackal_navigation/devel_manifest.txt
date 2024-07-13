@@ -1,5 +1,0 @@
-jackal_pkgs/jackal/jackal_navigation
-/home/vail/github/vsgp/devel/.private/jackal_navigation/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
-/home/vail/github/vsgp/devel/.private/jackal_navigation/lib/pkgconfig/jackal_navigation.pc /home/vail/github/vsgp/devel/lib/pkgconfig/jackal_navigation.pc
-/home/vail/github/vsgp/devel/.private/jackal_navigation/share/jackal_navigation/cmake/jackal_navigationConfig.cmake /home/vail/github/vsgp/devel/share/jackal_navigation/cmake/jackal_navigationConfig.cmake
-/home/vail/github/vsgp/devel/.private/jackal_navigation/share/jackal_navigation/cmake/jackal_navigationConfig-version.cmake /home/vail/github/vsgp/devel/share/jackal_navigation/cmake/jackal_navigationConfig-version.cmake

@@ -1,5 +1,0 @@
-jackal_pkgs/jackal/jackal_control
-/home/vail/github/vsgp/devel/.private/jackal_control/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
-/home/vail/github/vsgp/devel/.private/jackal_control/lib/pkgconfig/jackal_control.pc /home/vail/github/vsgp/devel/lib/pkgconfig/jackal_control.pc
-/home/vail/github/vsgp/devel/.private/jackal_control/share/jackal_control/cmake/jackal_controlConfig-version.cmake /home/vail/github/vsgp/devel/share/jackal_control/cmake/jackal_controlConfig-version.cmake
-/home/vail/github/vsgp/devel/.private/jackal_control/share/jackal_control/cmake/jackal_controlConfig.cmake /home/vail/github/vsgp/devel/share/jackal_control/cmake/jackal_controlConfig.cmake

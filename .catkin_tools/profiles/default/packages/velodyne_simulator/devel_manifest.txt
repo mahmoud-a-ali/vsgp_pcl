@@ -1,2 +1,0 @@
-jackal_pkgs/velodyne_simulator/velodyne_simulator
-/home/vail/github/vsgp/devel/.private/velodyne_simulator/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock

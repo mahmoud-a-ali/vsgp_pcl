@@ -1,6 +1,0 @@
-jackal_pkgs/jackal_robot/jackal_bringup
-/home/vail/github/vsgp/devel/.private/jackal_bringup/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
-/home/vail/github/vsgp/devel/.private/jackal_bringup/lib/python3/dist-packages/jackal_bringup/__init__.py /home/vail/github/vsgp/devel/lib/python3/dist-packages/jackal_bringup/__init__.py
-/home/vail/github/vsgp/devel/.private/jackal_bringup/lib/pkgconfig/jackal_bringup.pc /home/vail/github/vsgp/devel/lib/pkgconfig/jackal_bringup.pc
-/home/vail/github/vsgp/devel/.private/jackal_bringup/share/jackal_bringup/cmake/jackal_bringupConfig-version.cmake /home/vail/github/vsgp/devel/share/jackal_bringup/cmake/jackal_bringupConfig-version.cmake
-/home/vail/github/vsgp/devel/.private/jackal_bringup/share/jackal_bringup/cmake/jackal_bringupConfig.cmake /home/vail/github/vsgp/devel/share/jackal_bringup/cmake/jackal_bringupConfig.cmake

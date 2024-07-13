@@ -1,7 +1,0 @@
-jackal_pkgs/jackal_robot/jackal_base
-/home/vail/github/vsgp/devel/.private/jackal_base/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
-/home/vail/github/vsgp/devel/.private/jackal_base/lib/jackal_base/jackal_node /home/vail/github/vsgp/devel/lib/jackal_base/jackal_node
-/home/vail/github/vsgp/devel/.private/jackal_base/lib/jackal_base/simple_joy_node /home/vail/github/vsgp/devel/lib/jackal_base/simple_joy_node
-/home/vail/github/vsgp/devel/.private/jackal_base/lib/pkgconfig/jackal_base.pc /home/vail/github/vsgp/devel/lib/pkgconfig/jackal_base.pc
-/home/vail/github/vsgp/devel/.private/jackal_base/share/jackal_base/cmake/jackal_baseConfig.cmake /home/vail/github/vsgp/devel/share/jackal_base/cmake/jackal_baseConfig.cmake
-/home/vail/github/vsgp/devel/.private/jackal_base/share/jackal_base/cmake/jackal_baseConfig-version.cmake /home/vail/github/vsgp/devel/share/jackal_base/cmake/jackal_baseConfig-version.cmake

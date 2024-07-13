@@ -1,2 +1,0 @@
-jackal_pkgs/jackal_desktop/jackal_desktop
-/home/vail/github/vsgp/devel/.private/jackal_desktop/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
