@@ -1,0 +1,23 @@
+<launch>
+
+    <arg name="viz" default="true"/>
+
+    <arg name="pcl_topic" default="mid/points" />
+    <arg name="localization_topic" default="/ground_truth/state" />
+
+     <!-- pointcloud projection to occupancy surface -->
+    <node name="oc_srfc_proj" pkg="vsgp_gen_mdl" type="oc_srfc_proj"  output="screen">
+        <remap from="mid/points" to="$(arg pcl_topic)" />
+        <remap from="/ground_truth/state" to="$(arg localization_topic)" />
+    </node>
+
+
+    <!-- rviz visualization -->
+    <group if="$(arg viz)">
+        <node name="rviz" pkg="rviz" type="rviz" args="-d $(find jackal_viz)/rviz/vsgp_pcl.rviz"/>  
+    </group>
+
+
+</launch>
+
+

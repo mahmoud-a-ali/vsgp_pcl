@@ -1,0 +1,17 @@
+waypts_nav_pid
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/python3/dist-packages/waypts_nav_pid/__init__.py /home/vail/github/vsgp/devel/lib/python3/dist-packages/waypts_nav_pid/__init__.py
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/python3/dist-packages/waypts_nav_pid/cfg/ParamsConfig.py /home/vail/github/vsgp/devel/lib/python3/dist-packages/waypts_nav_pid/cfg/ParamsConfig.py
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/python3/dist-packages/waypts_nav_pid/cfg/__init__.py /home/vail/github/vsgp/devel/lib/python3/dist-packages/waypts_nav_pid/cfg/__init__.py
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/waypts_nav_pid/send_waypts.py /home/vail/github/vsgp/devel/lib/waypts_nav_pid/send_waypts.py
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/waypts_nav_pid/cmake.lock /home/vail/github/vsgp/devel/lib/waypts_nav_pid/cmake.lock
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/waypts_nav_pid/plot_jackal_path.py /home/vail/github/vsgp/devel/lib/waypts_nav_pid/plot_jackal_path.py
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/waypts_nav_pid/tracking_pid_node.py /home/vail/github/vsgp/devel/lib/waypts_nav_pid/tracking_pid_node.py
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/waypts_nav_pid/collect_waypts.py /home/vail/github/vsgp/devel/lib/waypts_nav_pid/collect_waypts.py
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/lib/pkgconfig/waypts_nav_pid.pc /home/vail/github/vsgp/devel/lib/pkgconfig/waypts_nav_pid.pc
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/include/waypts_nav_pid/ParamsConfig.h /home/vail/github/vsgp/devel/include/waypts_nav_pid/ParamsConfig.h
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/share/waypts_nav_pid/docs/ParamsConfig.wikidoc /home/vail/github/vsgp/devel/share/waypts_nav_pid/docs/ParamsConfig.wikidoc
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/share/waypts_nav_pid/docs/ParamsConfig-usage.dox /home/vail/github/vsgp/devel/share/waypts_nav_pid/docs/ParamsConfig-usage.dox
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/share/waypts_nav_pid/docs/ParamsConfig.dox /home/vail/github/vsgp/devel/share/waypts_nav_pid/docs/ParamsConfig.dox
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/share/waypts_nav_pid/cmake/waypts_nav_pidConfig.cmake /home/vail/github/vsgp/devel/share/waypts_nav_pid/cmake/waypts_nav_pidConfig.cmake
+/home/vail/github/vsgp/devel/.private/waypts_nav_pid/share/waypts_nav_pid/cmake/waypts_nav_pidConfig-version.cmake /home/vail/github/vsgp/devel/share/waypts_nav_pid/cmake/waypts_nav_pidConfig-version.cmake

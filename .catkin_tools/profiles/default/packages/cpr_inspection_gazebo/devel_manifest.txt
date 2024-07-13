@@ -1,0 +1,5 @@
+cpr_gazebo/cpr_inspection_gazebo
+/home/vail/github/vsgp/devel/.private/cpr_inspection_gazebo/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
+/home/vail/github/vsgp/devel/.private/cpr_inspection_gazebo/lib/pkgconfig/cpr_inspection_gazebo.pc /home/vail/github/vsgp/devel/lib/pkgconfig/cpr_inspection_gazebo.pc
+/home/vail/github/vsgp/devel/.private/cpr_inspection_gazebo/share/cpr_inspection_gazebo/cmake/cpr_inspection_gazeboConfig-version.cmake /home/vail/github/vsgp/devel/share/cpr_inspection_gazebo/cmake/cpr_inspection_gazeboConfig-version.cmake
+/home/vail/github/vsgp/devel/.private/cpr_inspection_gazebo/share/cpr_inspection_gazebo/cmake/cpr_inspection_gazeboConfig.cmake /home/vail/github/vsgp/devel/share/cpr_inspection_gazebo/cmake/cpr_inspection_gazeboConfig.cmake
