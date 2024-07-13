@@ -1,0 +1,2 @@
+jackal_pkgs/jackal_robot/jackal_robot
+/home/vail/github/vsgp/devel/.private/jackal_robot/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock

@@ -1,0 +1,10 @@
+<launch>
+
+     <!-- pointcloud projection to occupancy surface -->
+    <node name="scout" pkg="vsgp_gen_mdl" type="vsgp_scout.py"  output="screen">
+    </node>
+
+
+</launch>
+
+

@@ -1,0 +1,5 @@
+jackal_pkgs/jackal_desktop/jackal_viz
+/home/vail/github/vsgp/devel/.private/jackal_viz/cmake.lock /home/vail/github/vsgp/devel/./cmake.lock
+/home/vail/github/vsgp/devel/.private/jackal_viz/lib/pkgconfig/jackal_viz.pc /home/vail/github/vsgp/devel/lib/pkgconfig/jackal_viz.pc
+/home/vail/github/vsgp/devel/.private/jackal_viz/share/jackal_viz/cmake/jackal_vizConfig.cmake /home/vail/github/vsgp/devel/share/jackal_viz/cmake/jackal_vizConfig.cmake
+/home/vail/github/vsgp/devel/.private/jackal_viz/share/jackal_viz/cmake/jackal_vizConfig-version.cmake /home/vail/github/vsgp/devel/share/jackal_viz/cmake/jackal_vizConfig-version.cmake
